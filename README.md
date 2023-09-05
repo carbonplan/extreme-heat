@@ -9,7 +9,7 @@
 
 ## context
 
-This repository contains code to estimate wet-bulb globe temperatures (WBGT) in the shade and in the sun through 2060, developed as part of a [collaborative project with _The Washington Post_](TK). We wrote an [explainer article](https://carbonplan.org/research/extreme-heat-explainer) that describes our methods and the resulting dataset, as well as a [blog post](https://carbonplan.org/blog/open-risk-data) on the importance of public access and transparency in climate data and services. To support reproducibility and further research, the code here is sufficient to run the entire analysis. The [notebooks folder](/notebooks) contains 10 Jupyter notebooks that, in sequence, show how we created our dataset, including the inputs and algorithms we used and all the assumptions that we made.
+This repository contains code to estimate wet-bulb globe temperatures (WBGT) in the shade and in the sun through 2060, developed as part of a [collaborative project with _The Washington Post_](https://www.washingtonpost.com/climate-environment/interactive/2023/extreme-heat-wet-bulb-globe-temperature). We wrote an [explainer article](https://carbonplan.org/research/extreme-heat-explainer) that describes our methods and the resulting dataset, as well as a [blog post](https://carbonplan.org/blog/open-risk-data) on the importance of public access and transparency in climate data and services. To support reproducibility and further research, the code here is sufficient to run the entire analysis. The [notebooks folder](/notebooks) contains 10 Jupyter notebooks that, in sequence, show how we created our dataset, including the inputs and algorithms we used and all the assumptions that we made.
 
 ## data
 
