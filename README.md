@@ -13,7 +13,7 @@ This repository contains code to estimate wet-bulb globe temperatures (WBGT) in 
 
 ## data
 
-The final output dataset includes historical and future estimates of WBGT in the shade and in the sun for ~15,300 cities and ~24,000 climatically-similar regions around the world. The full analysis includes 26 global climate models (GCMs) and one emissions scenario (SSP2-4.5). To support different use cases, we've made the results available at a few different levels of granularity and in two different formats. The available data is summarized below in order of increasing detail and size. For each row, click on the `List` to see a full list of files and their associated URLs.
+The final output dataset includes historical and future estimates of WBGT in the shade and in the sun for ~15,300 cities and ~24,000 climatically-similar regions around the world. The full analysis includes 26 global climate models (GCMs) and one emissions scenario (SSP2-4.5). To support different use cases, we've made the results available at a few different levels of granularity and in two different formats. The available data is summarized below in order of increasing detail and size. For each row, click on the `List` to see a full list of files and their associated URLs. This work is openly licensed via [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 | Data                                            | Format | Files                                   | Uses                                                     |
 | ----------------------------------------------- | ------ | --------------------------------------- | -------------------------------------------------------- |
